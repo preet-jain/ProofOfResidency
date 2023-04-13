@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/preet-jain/id_schema/main/schema.jsonld",
-            "jsonSchema": "https://raw.githubusercontent.com/preet-jain/id_schema/main/schema.json"
+            "jsonLdContext": "https://raw.githubusercontent.com/preet-jain/ProofOfResidency/main/schema.jsonld",
+            "jsonSchema": "https://raw.githubusercontent.com/preet-jain/ProofOfResidency/main/schema.json"
         }
     },
     "required": [
